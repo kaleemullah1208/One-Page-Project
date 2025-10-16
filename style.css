@@ -189,10 +189,12 @@ th{
 align-items: center;
 }
 .contact pre{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
+    display: flex;
+    flex-wrap: wrap;
 }
 .contact h4{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     margin-left: 20px;
 }
 .contact h4 a {
@@ -200,10 +202,10 @@ align-items: center;
     margin-left: 20px;
 }
 .contact strong{
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 .contact p{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 .button{
     display: flex;
@@ -213,7 +215,7 @@ align-items: center;
 }
 .button a{
     padding: 10px;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     background-color: white;
     margin: 20px;
     text-decoration: none;
