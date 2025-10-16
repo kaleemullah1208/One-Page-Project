@@ -205,3 +205,24 @@ align-items: center;
 .contact p{
     font-size: 1.4rem;
 }
+.button{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    background-color: yellow;
+}
+.button a{
+    padding: 10px;
+    font-size: 1.3rem;
+    background-color: white;
+    margin: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 900;
+    background-color: #F15B25;
+    color: white;
+}
+.button a:hover{
+    background-color:#f15b25d7 ;
+    color: wheat;
+}
