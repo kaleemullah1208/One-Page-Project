@@ -179,3 +179,29 @@ th{
     padding: 10px;
 }
                                                     /* Contact Section */
+.contact{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: yellow;
+    margin-top:10px;
+    width: 100%;
+align-items: center;
+}
+.contact pre{
+    font-size: 1.6rem;
+}
+.contact h4{
+    font-size: 1.6rem;
+    margin-left: 20px;
+}
+.contact h4 a {
+    text-decoration: none;
+    margin-left: 20px;
+}
+.contact strong{
+    font-size: 1.6rem;
+}
+.contact p{
+    font-size: 1.4rem;
+}
